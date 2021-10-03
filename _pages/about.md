@@ -18,11 +18,11 @@ Research Interests
 
 Publications
 ======
-- Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference. In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021.
+- Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. *UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference.* In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021.
 
-- Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference. In Proceedings of the Graph Representation Learning and Beyond Workshop (ICML GRL+ 2020), 2020.
+- Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. *UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference.* In Proceedings of the Graph Representation Learning and Beyond Workshop (ICML GRL+ 2020), 2020.
 
-- Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. Explainable knowledge graph-based recommendation via deep reinforcement learning[J]. arXiv preprint arXiv:1906.09506, 2019.
+- Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. *Explainable knowledge graph-based recommendation via deep reinforcement learning[J].* arXiv preprint arXiv:1906.09506, 2019.
 
 
 
