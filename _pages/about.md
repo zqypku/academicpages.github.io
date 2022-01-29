@@ -11,14 +11,13 @@ redirect_from:
 
 Hello! This is Ziqing Yang, a first year Ph.D. student at [CISPA Helmhltz Center for Information Security](https://cispa.de/), Co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
 
-
-
-Research interests
+#### Research Interest
+<!-- Research interests -->
 ======
 * Security and Privacy of Machine Learning
 * Graph Analysis
 
-Publications
+#### Publications
 ======
 - Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. *UniKER: A Unified Framework for Combining Embedding and Definite
 Horn Rule Reasoning for Knowledge Graph Inference.* In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021. [paper](https://aclanthology.org/2021.emnlp-main.769.pdf)
