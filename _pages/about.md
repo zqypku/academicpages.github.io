@@ -29,6 +29,9 @@ Horn Rule Reasoning for Knowledge Graph Inference.* In  Proceedings of the 2021 
 
 ## What's New
 
+[August 2022] I joined the Program Commitee of [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)!
+[August 2022] I joined the Program Commitee of [CSAE 2022](http://www.csaeconf.org/)!
+[May 2022] I joined the Program Commitee of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
 [October 2021] I joined CISPA to start my Ph.D.!
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
