@@ -23,19 +23,15 @@ Hello! This is Weixiao Lu, a third year Ph.D. student at [MIT](https://math.mit.
 
 ## Notes
 
-GGP conjectures for unitary groups
+[GGP conjectures for unitary groups](https://github.com/weixiao-lu/weixiao-lu.github.io/blob/2cc590c593f05affbabd390ea81122d6ee3edefa/files/GGP_introduction.pdf), an introduction to GGP conjectures for unitary group, including an ongoing joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
 
-## What's New
 
-[October 2022] I have successfully passed the Qualifying Exam!
 
-[August 2022] I joined the Program Commitee of [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)!
+<!-- ## What's New -->
 
-[August 2022] I became an reviewer of [CSAE 2022](http://www.csaeconf.org/)!
+<!-- [October 2022] I have successfully passed the Qualifying Exam! -->
 
-[May 2022] I became an reviewer of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
 
-[October 2021] I joined CISPA to start my Ph.D.!
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
