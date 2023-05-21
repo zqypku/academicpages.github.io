@@ -17,8 +17,11 @@ Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Cente
 * Graph Analysis
 
 ## Publications
+(\*: Equal Contribution)
 
-- **Ziqing Yang**, Xinlei He, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, and Yang Zhang. *Data Poisoning Attacks Against Multimodal Encoders.*
+- **Ziqing Yang**, Xinlei He, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, and Yang Zhang. *Data Poisoning Attacks Against Multimodal Encoders.* In Proceedings of the 2023 International Conference on Machine Learning (ICML 2023), 2023. [paper](https://arxiv.org/abs/2209.15266)
+
+- **Ziqing Yang\***, Zheyang Sha\*, Michael Backes, Yang Zhang. *From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need.* arXiv preprint arXiv:2303.05266, 2023. [paper](https://arxiv.org/abs/2303.05266)
 
 - Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. *UniKER: A Unified Framework for Combining Embedding and Definite
 Horn Rule Reasoning for Knowledge Graph Inference.* In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021. [paper](https://aclanthology.org/2021.emnlp-main.769.pdf)
