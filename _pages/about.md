@@ -23,11 +23,15 @@ Hello! This is Weixiao Lu, a third year Ph.D. student at [MIT](https://math.mit.
 
 ## Notes
 
-- [GGP conjectures for unitary groups](files/GGP_introduction.pdf), a talk given at MSRI on introduction to GGP conjectures for unitary group, including an ongoing joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
+- [GGP conjectures for unitary groups](https://weixiao-lu.github.io/files/GGP_introduction.pdf), a talk given at MSRI on introduction to GGP conjectures for unitary group, including an ongoing joint work with Hang Xue and Paul Boisseau on Fourier-Jacobi periods.
 
-- [Kolyvagin Theorem](https://github.com/weixiao-lu/weixiao-lu.github.io/blob/a0298518488adccfc4ec270bc2fc97077c3b9c25/files/Kolyvagin_Theorem.pdf), a talk on Kolyvagin's theorem on elliptic curves.
+- [Kolyvagin Theorem](https://weixiao-lu.github.io/files/Kolyvagin_Theorem.pdf), a talk on Kolyvagin's theorem on elliptic curves.
 
-- [Adic Spaces](https://github.com/weixiao-lu/weixiao-lu.github.io/blob/cc2e7dac66d973d206a6c9c62c65629d60130088/files/Adic_Spaces.pdf),[Diamond](https://github.com/weixiao-lu/weixiao-lu.github.io/blob/cc2e7dac66d973d206a6c9c62c65629d60130088/files/Diamond.pdf) Two talks on Berkeley Notes.
+- [Adic Spaces](https://weixiao-lu.github.io/files/Adic_Spaces.pdf),[Diamond](https://weixiao-lu.github.io/files/Diamond.pdf) Two talks on Berkeley Notes.
+
+- [Algebraization of Complex Torus](https://weixiao-lu.github.io/files/Algebraization_Complex_Torus.pdf)
+
+- [Examples of Brauer Groups](https://weixiao-lu.github.io/files/Brauer_Group_Computation.pdf) (In Chinese)
 
 
 <!-- ## What's New -->
