@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ziqing Yang"
-description              : &description "First-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
+description              : &description "Second-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
 url                      : https://zqypku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zqypku.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziqing Yang"
   avatar           : "profile_ziqing.jpg" # "profile.png"
-  bio              : "First-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
+  bio              : "Second-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
