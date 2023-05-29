@@ -16,6 +16,22 @@ Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Cente
 * Security and Privacy of Machine Learning
 * Graph Analysis
 
+## What's New
+
+[May 2022] I became an reviewer of [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)!
+
+[May 2022] Our paper named *Data Poisoning Attacks Against Multimodal Encoders* is accepted by [ICML 2023](https://icml.cc/Conferences/2023)!
+
+[October 2022] I have successfully passed the Qualifying Exam!
+
+[August 2022] I joined the Program Commitee of [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)!
+
+[August 2022] I became an reviewer of [CSAE 2022](http://www.csaeconf.org/)!
+
+[May 2022] I became an reviewer of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
+
+[October 2021] I joined CISPA to start my Ph.D.!
+
 ## Publications
 (\*: Equal Contribution)
 
@@ -30,21 +46,11 @@ Horn Rule Reasoning for Knowledge Graph Inference.* In  Proceedings of the 2021 
 
 - Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. *Explainable knowledge graph-based recommendation via deep reinforcement learning[J].* arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
 
+## Sevices
 
+- **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+- **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)
 
-## What's New
-
-[May 2022] Our paper named *Data Poisoning Attacks Against Multimodal Encoders* is accepted by [ICML 2023](https://icml.cc/Conferences/2023)!
-
-[October 2022] I have successfully passed the Qualifying Exam!
-
-[August 2022] I joined the Program Commitee of [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)!
-
-[August 2022] I became an reviewer of [CSAE 2022](http://www.csaeconf.org/)!
-
-[May 2022] I became an reviewer of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
-
-[October 2021] I joined CISPA to start my Ph.D.!
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
