@@ -48,8 +48,9 @@ Horn Rule Reasoning for Knowledge Graph Inference.* In  Proceedings of the 2021 
 
 ## Sevices
 
-- **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+- **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)
 - **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)
+- **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
 
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
