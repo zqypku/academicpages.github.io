@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! This is Weixiao Lu, a third year Ph.D. student at [MIT](https://math.mit.edu/), advised by [Prof. Wei Zhang](https://math.mit.edu/~wz2113/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
+Hello! This is Weixiao Lu, a fourth year Ph.D. student at [MIT](https://math.mit.edu/), advised by [Prof. Wei Zhang](https://math.mit.edu/~wz2113/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
 
 ## Research Interest
 
