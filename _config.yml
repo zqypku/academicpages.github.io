@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Weixiao Lu"
-description              : &description "Third year graduate student at MIT"
+description              : &description "Fourth year graduate student at MIT"
 url                      : https://weixiao-lu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weixiao-lu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weixiao Lu"
   avatar           : # "profile_ziqing.jpg" # "profile.png"
-  bio              : "Third year graduate student at MIT"
+  bio              : "Fourth year graduate student at MIT"
   location         : "Cambridge, MA, United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
