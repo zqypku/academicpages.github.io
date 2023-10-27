@@ -60,6 +60,18 @@ Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Cente
 
 - <span style="color:rgb(0, 119, 181)">Explainable knowledge graph-based recommendation via deep reinforcement learning[J].</span> Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
 
+## Teaching
+
+- **Teaching Assistant:**
+  - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University, Winter term 2023/2024)
+
+## Sevices
+
+- **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)
+- **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)
+- **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
+
+
 <!--
 - Boyang Zhang, Zheng Li, **Ziqing Yang**, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang. *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models.* In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24), 2024.
 
@@ -74,17 +86,6 @@ Horn Rule Reasoning for Knowledge Graph Inference.* In  Proceedings of the 2021 
 
 - Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. *Explainable knowledge graph-based recommendation via deep reinforcement learning[J].* arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
 -->
-
-## Sevices
-
-- **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)
-- **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)
-- **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
-
-## Teaching
-
-- **Teaching Assistant:** [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University, Winter term 2023/2024)
-
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
