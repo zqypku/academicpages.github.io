@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Center for Information Security](https://cispa.de/), Co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
 
 ## Research Interest
@@ -18,22 +17,51 @@ Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Cente
 
 ## What's New
 
-[May 2022] I became an reviewer of [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)!
+[September 2023] Our paper named *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models* is accepted by [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
+
+[August 2023] I joined the Program Committee of [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)!
+
+[May 2023] I became a reviewer of [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)!
 
 [May 2022] Our paper named *Data Poisoning Attacks Against Multimodal Encoders* is accepted by [ICML 2023](https://icml.cc/Conferences/2023)!
 
 [October 2022] I have successfully passed the Qualifying Exam!
 
-[August 2022] I joined the Program Commitee of [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)!
+[August 2022] I joined the Program Committee of [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)!
 
-[August 2022] I became an reviewer of [CSAE 2022](http://www.csaeconf.org/)!
+[August 2022] I became a reviewer of [CSAE 2022](http://www.csaeconf.org/)!
 
-[May 2022] I became an reviewer of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
+[May 2022] I became a reviewer of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
 
 [October 2021] I joined CISPA to start my Ph.D.!
 
 ## Publications
 (\*: Equal Contribution)
+
+### 2024
+
+- <span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models.</span> Boyang Zhang, Zheng Li, **Ziqing Yang**, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang. In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24), 2024. [paper](https://arxiv.org/abs/2310.12665) [code](https://github.com/SecurityNet-Research/SecurityNet)
+
+### 2023 
+
+- <span style="color:rgb(0, 119, 181)">Data Poisoning Attacks Against Multimodal Encoders.</span> **Ziqing Yang**, Xinlei He, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, and Yang Zhang. In Proceedings of the 2023 International Conference on Machine Learning (ICML 2023), 2023. [paper](https://arxiv.org/abs/2209.15266) [code](https://github.com/zqypku/mm_poison/)
+
+- <span style="color:rgb(0, 119, 181)">From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need.</span> **Ziqing Yang\***, Zheyang Sha\*, Michael Backes, Yang Zhang. arXiv preprint arXiv:2303.05266, 2023. [paper](https://arxiv.org/abs/2303.05266)
+
+### 2021 
+
+- <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference.</span> Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021. [paper](https://aclanthology.org/2021.emnlp-main.769.pdf)
+
+### 2020
+
+- <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference.</span> Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In Proceedings of the Graph Representation Learning and Beyond Workshop (ICML GRL+ 2020), 2020. [paper](https://grlplus.github.io/papers/84.pdf)
+
+### 2019
+
+- <span style="color:rgb(0, 119, 181)">Explainable knowledge graph-based recommendation via deep reinforcement learning[J].</span> Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
+
+<!--
+- Boyang Zhang, Zheng Li, **Ziqing Yang**, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang. *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models.* In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24), 2024.
 
 - **Ziqing Yang**, Xinlei He, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, and Yang Zhang. *Data Poisoning Attacks Against Multimodal Encoders.* In Proceedings of the 2023 International Conference on Machine Learning (ICML 2023), 2023. [paper](https://arxiv.org/abs/2209.15266)
 
@@ -45,12 +73,17 @@ Horn Rule Reasoning for Knowledge Graph Inference.* In  Proceedings of the 2021 
 - Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. *UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference.* In Proceedings of the Graph Representation Learning and Beyond Workshop (ICML GRL+ 2020), 2020. [paper](https://grlplus.github.io/papers/84.pdf)
 
 - Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. *Explainable knowledge graph-based recommendation via deep reinforcement learning[J].* arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
+-->
 
 ## Sevices
 
 - **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)
 - **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)
 - **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
+
+## Teaching
+
+- **Teaching Assistant:** [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University, Winter term 2023/2024)
 
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
