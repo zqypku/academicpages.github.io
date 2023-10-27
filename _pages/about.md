@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Center for Information Security](https://cispa.de/), Co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
+Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
 
 ## Research Interest
 
-* Security and Privacy of Machine Learning
-* Graph Analysis
+- Security and privacy of machine learning
+- Trustworthy machine learning
 
 ## What's New
 
@@ -33,30 +33,30 @@ Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Cente
 
 [May 2022] I became a reviewer of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
 
-[October 2021] I joined CISPA to start my Ph.D.!
+[October 2021] I joined CISPA to start my Ph.D. (preparatory phase)!
 
 ## Publications
 (\*: Equal Contribution)
 
-### 2024
+#### 2024
 
 - <span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models.</span> Boyang Zhang, Zheng Li, **Ziqing Yang**, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang. In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24), 2024. [paper](https://arxiv.org/abs/2310.12665) [code](https://github.com/SecurityNet-Research/SecurityNet)
 
-### 2023 
+#### 2023 
 
 - <span style="color:rgb(0, 119, 181)">Data Poisoning Attacks Against Multimodal Encoders.</span> **Ziqing Yang**, Xinlei He, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, and Yang Zhang. In Proceedings of the 2023 International Conference on Machine Learning (ICML 2023), 2023. [paper](https://arxiv.org/abs/2209.15266) [code](https://github.com/zqypku/mm_poison/)
 
 - <span style="color:rgb(0, 119, 181)">From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need.</span> **Ziqing Yang\***, Zheyang Sha\*, Michael Backes, Yang Zhang. arXiv preprint arXiv:2303.05266, 2023. [paper](https://arxiv.org/abs/2303.05266)
 
-### 2021 
+#### 2021 
 
 - <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference.</span> Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021. [paper](https://aclanthology.org/2021.emnlp-main.769.pdf)
 
-### 2020
+#### 2020
 
 - <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference.</span> Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In Proceedings of the Graph Representation Learning and Beyond Workshop (ICML GRL+ 2020), 2020. [paper](https://grlplus.github.io/papers/84.pdf)
 
-### 2019
+#### 2019
 
 - <span style="color:rgb(0, 119, 181)">Explainable knowledge graph-based recommendation via deep reinforcement learning[J].</span> Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
 
