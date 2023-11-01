@@ -19,13 +19,13 @@ Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Cente
 
 [November 2023] I became a reviewer of [TKDD](https://dl.acm.org/journal/tkdd)!
 
-[September 2023] Our paper named *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models* is accepted by [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
+[September 2023] Our paper named *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models* was accepted by [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
 
 [August 2023] I joined the Program Committee of [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)!
 
 [May 2023] I became a reviewer of [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)!
 
-[May 2022] Our paper named *Data Poisoning Attacks Against Multimodal Encoders* is accepted by [ICML 2023](https://icml.cc/Conferences/2023)!
+[May 2022] Our paper named *Data Poisoning Attacks Against Multimodal Encoders* was accepted by [ICML 2023](https://icml.cc/Conferences/2023)!
 
 [October 2022] I have successfully passed the Qualifying Exam!
 
