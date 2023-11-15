@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Ziqing Yang, a second year Ph.D. student at [CISPA Helmhltz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from Peking University in Beijing, China.
+Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from [Peking University](http://english.pku.edu.cn/), advised by [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/).
 
 ## Research Interest
 
-- Security and privacy of machine learning
-- Trustworthy machine learning
+- Trustworthy machine learning (safety, privacy, and security)
+- Generative models
+- Graph analysis
 
 ## What's New
 
