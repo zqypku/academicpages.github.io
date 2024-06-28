@@ -71,7 +71,7 @@ Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Cent
 ## Sevices
 
 - **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)
-- **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [TKDD](https://dl.acm.org/journal/tkdd) (Nov., 2023)
+- **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [TKDD](https://dl.acm.org/journal/tkdd), [TOPS](https://dl.acm.org/journal/tops)
 - **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
 
 
