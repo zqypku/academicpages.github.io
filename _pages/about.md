@@ -18,11 +18,22 @@ Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Cent
 
 ## What's New
 
+[August 2024] I joined the Program Committee of [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
+
+[April 2024] I became a reviewer of the [2nd SPIGM @ ICML 2024](https://spigmworkshop2024.github.io/)!
+
+[May 2024] I became a reviewer of [TKDD](https://dl.acm.org/journal/tkdd)!
+
+[April 2024] I became a reviewer of [TOPS](https://dl.acm.org/journal/tops)!
+
 [November 2023] I became a reviewer of [TKDD](https://dl.acm.org/journal/tkdd)!
 
 [September 2023] Our paper named *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models* was accepted by [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
 
+<!--
 [August 2023] I joined the Program Committee of [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)!
+
+[June 2023] I became a sub-reviewer of [ICICS 2023](https://easychair.org/my/conference?conf=icics2023)!
 
 [May 2023] I became a reviewer of [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/)!
 
@@ -34,9 +45,11 @@ Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Cent
 
 [August 2022] I became a reviewer of [CSAE 2022](http://www.csaeconf.org/)!
 
+
 [May 2022] I became a reviewer of [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)!
 
 [October 2021] I joined CISPA to start my Ph.D. (preparatory phase)!
+--->
 
 ## Publications
 (\*: Equal Contribution)
@@ -70,8 +83,8 @@ Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Cent
 
 ## Sevices
 
-- **Invited Program Commitee Member:** [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)
-- **Invited Reviewer:** [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [TKDD](https://dl.acm.org/journal/tkdd), [TOPS](https://dl.acm.org/journal/tops)
+- **Invited Program Commitee Member:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+- **Invited Reviewer:** [TOPS](https://dl.acm.org/journal/tops), [TKDD](https://dl.acm.org/journal/tkdd), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)
 - **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
 
 
