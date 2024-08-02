@@ -56,6 +56,8 @@ Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Cent
 
 2024
 
+- <span style="color:rgb(0, 119, 181)">SOS! Soft Prompt Attack Against Open-Source Large Language Models.</span> **Ziqing Yang**, Michael Backes, Yang Zhang, Ahmed Salem. arXiv preprint arXiv:2407.03160, 2024. [paper](https://arxiv.org/abs/2407.03160)
+
 - <span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models.</span> Boyang Zhang, Zheng Li, **Ziqing Yang**, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang. In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24), 2024. [paper](https://arxiv.org/abs/2310.12665) [code](https://github.com/SecurityNet-Research/SecurityNet)
 
 2023
@@ -79,6 +81,8 @@ Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Cent
 ## Teaching
 
 - **Teaching Assistant:**
+  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude2024/) (Graduate, Saarland University, Summer term 2024)
+  - [Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2024/) (Graduate, Saarland University, Summer term 2024)
   - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University, Winter term 2023/2024)
 
 ## Sevices
