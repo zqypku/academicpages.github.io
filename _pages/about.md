@@ -58,25 +58,33 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 2024
 
-- <span style="color:rgb(0, 119, 181)">SOS! Soft Prompt Attack Against Open-Source Large Language Models.</span> **Ziqing Yang**, Michael Backes, Yang Zhang, Ahmed Salem. arXiv preprint arXiv:2407.03160, 2024. [paper](https://arxiv.org/abs/2407.03160)
+- <span style="color:rgb(0, 119, 181)">SOS! Soft Prompt Attack Against Open-Source Large Language Models.</span>
+  **Ziqing Yang**, Michael Backes, Yang Zhang, Ahmed Salem. arXiv preprint arXiv:2407.03160, 2024. [paper](https://arxiv.org/abs/2407.03160)
 
-- <span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models.</span> Boyang Zhang, Zheng Li, **Ziqing Yang**, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang. In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24), 2024. [paper](https://arxiv.org/abs/2310.12665) [code](https://github.com/SecurityNet-Research/SecurityNet)
+- <span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models.</span>
+  Boyang Zhang, Zheng Li, **Ziqing Yang**, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang. In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24), 2024. [paper](https://arxiv.org/abs/2310.12665) [code](https://github.com/SecurityNet-Research/SecurityNet)
 
-- <span style="color:rgb(0, 119, 181)">Comprehensive Assessment of Jailbreak Attacks Against LLMs.</span> Junjie Chu, Yugeng Liu, **Ziqing Yang**, Xinyue Shen, Michael Backes, Yang Zhang. arXiv preprint arXiv:2402.05668, 2024. [paper](https://arxiv.org/abs/2402.05668)
+- <span style="color:rgb(0, 119, 181)">Comprehensive Assessment of Jailbreak Attacks Against LLMs.</span>
+  Junjie Chu, Yugeng Liu, **Ziqing Yang**, Xinyue Shen, Michael Backes, Yang Zhang. arXiv preprint arXiv:2402.05668, 2024. [paper](https://arxiv.org/abs/2402.05668)
 
 2023
 
-- <span style="color:rgb(0, 119, 181)">Data Poisoning Attacks Against Multimodal Encoders.</span> **Ziqing Yang**, Xinlei He, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, and Yang Zhang. In Proceedings of the 2023 International Conference on Machine Learning (ICML 2023), 2023. [paper](https://arxiv.org/abs/2209.15266) [code](https://github.com/zqypku/mm_poison/)
+- <span style="color:rgb(0, 119, 181)">Data Poisoning Attacks Against Multimodal Encoders.</span>
+  **Ziqing Yang**, Xinlei He, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, and Yang Zhang. In Proceedings of the 2023 International Conference on Machine Learning (ICML 2023), 2023. [paper](https://arxiv.org/abs/2209.15266) [code](https://github.com/zqypku/mm_poison/)
 
-- <span style="color:rgb(0, 119, 181)">From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need.</span> **Ziqing Yang\***, Zheyang Sha\*, Michael Backes, Yang Zhang. arXiv preprint arXiv:2303.05266, 2023. [paper](https://arxiv.org/abs/2303.05266)
+- <span style="color:rgb(0, 119, 181)">From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need.</span>
+  **Ziqing Yang\***, Zheyang Sha\*, Michael Backes, Yang Zhang. arXiv preprint arXiv:2303.05266, 2023. [paper](https://arxiv.org/abs/2303.05266)
 
 Before 2021
 
-- <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference.</span> Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021. [paper](https://aclanthology.org/2021.emnlp-main.769.pdf)
+- <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference.</span>
+  Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), 2021. [paper](https://aclanthology.org/2021.emnlp-main.769.pdf)
 
-- <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference.</span> Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In Proceedings of the Graph Representation Learning and Beyond Workshop (ICML GRL+ 2020), 2020. [paper](https://grlplus.github.io/papers/84.pdf)
+- <span style="color:rgb(0, 119, 181)">UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference.</span>
+  Kewei Cheng, **Ziqing Yang**, Ming Zhang, and Yizhou Sun. In Proceedings of the Graph Representation Learning and Beyond Workshop (ICML GRL+ 2020), 2020. [paper](https://grlplus.github.io/papers/84.pdf)
 
-- <span style="color:rgb(0, 119, 181)">Explainable knowledge graph-based recommendation via deep reinforcement learning[J].</span> Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
+- <span style="color:rgb(0, 119, 181)">Explainable knowledge graph-based recommendation via deep reinforcement learning[J].</span>
+  Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. arXiv preprint arXiv:1906.09506, 2019. [paper](https://arxiv.org/abs/1906.09506)
 
 ## Teaching
 
