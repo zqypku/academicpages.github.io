@@ -78,12 +78,16 @@ Before 2021
 
 - <span style="color:rgb(0, 119, 181)">Explainable knowledge graph-based recommendation via deep reinforcement learning[J].</span><br/>Weiping Song, Zhijian Duan, **Ziqing Yang**, Hao Zhu, Ming Zhang, and Jian Tang. arXiv preprint arXiv:1906.09506, 2019. <br/>[paper](https://arxiv.org/abs/1906.09506)
 
-## Teaching
+## Teaching Assistant
 
-- **Teaching Assistant:**
-  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude2024/) (Graduate, Saarland University, Summer term 2024)
-  - [Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2024/) (Graduate, Saarland University, Summer term 2024)
-  - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University, Winter term 2023/2024)
+Summer term 2024
+
+- [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude2024/) (Graduate, Saarland University)
+- [Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2024/) (Graduate, Saarland University)
+
+Winter term 2023/2024
+
+- [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University)
 
 ## Sevices
 
