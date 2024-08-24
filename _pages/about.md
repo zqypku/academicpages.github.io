@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from [Peking University](http://english.pku.edu.cn/), advised by [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/).
+Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from [Peking University](http://english.pku.edu.cn/), advised by [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/).
 
 ## Research Interest
 
@@ -18,9 +18,11 @@ Hello! This is Ziqing Yang, a second-year Ph.D. student at [CISPA Helmholtz Cent
 
 ## What's New
 
+[August 2024] I became a reviewer of [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024)!
+
 [August 2024] I joined the Program Committee of [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
 
-[April 2024] I became a reviewer of the [2nd SPIGM @ ICML 2024](https://spigmworkshop2024.github.io/)!
+[April 2024] I became a reviewer of [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/)!
 
 [May 2024] I became a reviewer of [TKDD](https://dl.acm.org/journal/tkdd)!
 
@@ -86,7 +88,7 @@ Before 2021
 ## Sevices
 
 - **Invited Program Commitee Member:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
-- **Invited Reviewer:** [TOPS](https://dl.acm.org/journal/tops), [TKDD](https://dl.acm.org/journal/tkdd), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)
+- **Invited Reviewer:** [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024), [TOPS](https://dl.acm.org/journal/tops), [TKDD](https://dl.acm.org/journal/tkdd), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)
 - **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
 
 
