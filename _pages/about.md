@@ -18,6 +18,8 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 ## What's New
 
+[August 2024] I joined the Program Committee of [NeurIPS AFME 2024](https://www.afciworkshop.org/)!
+
 [August 2024] I became a reviewer of [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024)!
 
 [August 2024] I joined the Program Committee of [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
@@ -91,7 +93,7 @@ Winter term 2023/2024
 
 ## Sevices
 
-- **Invited Program Commitee Member:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+- **Invited Program Commitee Member:** [NeurIPS AFME 2024](https://www.afciworkshop.org/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
 - **Invited Reviewer:** [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024), [TOPS](https://dl.acm.org/journal/tops), [TKDD](https://dl.acm.org/journal/tkdd), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)
 - **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
 
