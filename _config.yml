@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziqing Yang"
-  avatars          : "profile_ziqing_1.jpg"   # Primary avatar
+  avatar          : "profile_ziqing_1.jpg"   # Primary avatar
   bio              : "Third-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
