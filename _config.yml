@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziqing Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ziqing Yang"
 description              : &description "Second-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Ziqing Yang"
+  name             : "Ziqing Yang"
   avatar           : "profile_ziqing_1.jpg"   # Primary avatar
-  bio              : "Third-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
+  bio              : "Second-year Ph.D. Student at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
