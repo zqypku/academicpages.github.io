@@ -58,37 +58,37 @@
   font-size: $type-size-7;
 }
 
-// .page__footer-follow {
-//   ul {
-//     margin: 0;
-//     padding: 0;
-//     list-style-type: none;
-//   }
+.page__footer-follow {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
 
-//   li {
-//     display: inline-block;
-//     padding-top: 5px;
-//     padding-bottom: 5px;
-//     font-family: $sans-serif-narrow;
-//     font-size: $type-size-6;
-//     text-transform: uppercase;
-//   }
+  li {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+  }
 
-//   li + li:before {
-//     content: "";
-//     padding-right: 5px;
-//   }
+  li + li:before {
+    content: "";
+    padding-right: 5px;
+  }
 
-//   a {
-//     padding-right: 10px;
-//     font-weight: bold;
-//   }
+  a {
+    padding-right: 10px;
+    font-weight: bold;
+  }
 
-  // .social-icons {
-  //   a {
-  //     white-space: nowrap;
-  //   }
-  // }
+  .social-icons {
+    a {
+      white-space: nowrap;
+    }
+  }
   // .visitor-map {
   //    text-align: center;  // Centers the map
   //    margin-top: 1rem;    // Adds space above the map
