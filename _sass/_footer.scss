@@ -84,9 +84,14 @@
     font-weight: bold;
   }
 
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
+  // .social-icons {
+  //   a {
+  //     white-space: nowrap;
+  //   }
+  // }
+}
+.visitor-map {
+  text-align: center;  // Centers the map
+  margin-top: 1rem;    // Adds space above the map
+  margin-bottom: 1rem;  // Adds space below the map
 }
