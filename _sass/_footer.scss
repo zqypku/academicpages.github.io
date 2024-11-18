@@ -94,4 +94,7 @@
   text-align: center;  // Centers the map
   margin-top: 1rem;    // Adds space above the map
   margin-bottom: 1rem;  // Adds space below the map
+  width: 80px;         // Set a specific width
+  height: auto;         // Allow height to adjust automatically
+  max-width: 100%;      // Ensure it doesn't exceed the footer width
 }
