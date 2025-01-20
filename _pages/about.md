@@ -18,6 +18,12 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 ## What's New
 
+[January 2025] I became a reviewer of [KDD 2025](https://kdd2025.kdd.org/)!
+
+[December 2024] I became a reviewer of [ICLR FPI Workshop 2025](https://sites.google.com/view/fpiworkshop/about)!
+
+[November 2024] I joined the Artifact Evaluation Committee of [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts)!
+
 [August 2024] I joined the Program Committee of [NeurIPS AFME 2024](https://www.afciworkshop.org/)!
 
 [August 2024] I became a reviewer of [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024)!
