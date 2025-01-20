@@ -24,6 +24,7 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 [November 2024] I joined the Artifact Evaluation Committee of [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts)!
 
+<!--
 [August 2024] I joined the Program Committee of [NeurIPS AFME 2024](https://www.afciworkshop.org/)!
 
 [August 2024] I became a reviewer of [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024)!
@@ -37,6 +38,7 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 [April 2024] I became a reviewer of [TOPS](https://dl.acm.org/journal/tops)!
 
 [November 2023] I became a reviewer of [TKDD](https://dl.acm.org/journal/tkdd)!
+--->
 
 [September 2023] Our paper named *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models* was accepted by [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
 
